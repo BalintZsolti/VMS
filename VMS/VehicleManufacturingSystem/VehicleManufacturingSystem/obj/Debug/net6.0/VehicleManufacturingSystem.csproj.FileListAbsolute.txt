@@ -1,0 +1,15 @@
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\bin\Debug\net6.0\VehicleManufacturingSystem.exe
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\bin\Debug\net6.0\VehicleManufacturingSystem.deps.json
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\bin\Debug\net6.0\VehicleManufacturingSystem.runtimeconfig.json
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\bin\Debug\net6.0\VehicleManufacturingSystem.dll
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\bin\Debug\net6.0\VehicleManufacturingSystem.pdb
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\obj\Debug\net6.0\VehicleManufacturingSystem.csproj.AssemblyReference.cache
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\obj\Debug\net6.0\VehicleManufacturingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\obj\Debug\net6.0\VehicleManufacturingSystem.AssemblyInfoInputs.cache
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\obj\Debug\net6.0\VehicleManufacturingSystem.AssemblyInfo.cs
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\obj\Debug\net6.0\VehicleManufacturingSystem.csproj.CoreCompileInputs.cache
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\obj\Debug\net6.0\VehicleManufacturingSystem.dll
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\obj\Debug\net6.0\refint\VehicleManufacturingSystem.dll
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\obj\Debug\net6.0\VehicleManufacturingSystem.pdb
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\obj\Debug\net6.0\VehicleManufacturingSystem.genruntimeconfig.cache
+C:\Users\zsolt\Desktop\VMS\VehicleManufacturingSystem\VehicleManufacturingSystem\obj\Debug\net6.0\ref\VehicleManufacturingSystem.dll
